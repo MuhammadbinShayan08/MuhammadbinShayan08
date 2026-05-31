@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bin Shayan</h1>
-<h3 align="center">Incoming BS Data Science Student | Beginner Developer | Open Source Learner</h3>
+<h3 align="center">Aspiring BS Data Science Student | Beginner Developer | Open Source Learner</h3>
 
 - 🎓 Starting BS in **Data Science**
 - 🧠 Currently revising **Python** and exploring **Data Science libraries** (NumPy, pandas, matplotlib)
