@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bin Shayan</h1>
-<h3 align="center">Aspiring BS Data Science Student | Beginner Developer | Open Source Learner</h3>
+<h3 align="center"> BS Data Science Student | Beginner Developer | Open Source Learner</h3>
 
-- 🎓 Starting BS in **Data Science**
+- 🎓 Pursuing BS in **Data Science**
 - 🧠 Currently revising **Python** and exploring **Data Science libraries** (NumPy, pandas, matplotlib)
 - 🛠️ Projects: `Password Generator`, `Calculator GUI`, `PDF Tool (WIP)`
 - 🚀 Learning Goals: Git, APIs, Open Source Contribution, Machine Learning
